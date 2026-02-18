@@ -1,21 +1,26 @@
 * {
-  font-family: Arial;
-  background-color:bisque;
+  font-family: 'Lucida Sans';
 }
 
 body {
   max-width: 1200px;
   margin: 10 auto;
+  background-color:#FFFF00;
 }
 
 
 h1 {
-  color: brown;
-  font-size: 36px;
+  color: #1E1E1E;
+  font-size: 70pt;
   text-align: center;
 }
 
+h2 {
+  color: #BEBEB9;
+  font-size: 38pt;
+}
+
 p {
-  font-size: 18px;
-  color: black;
+  font-size: 18pt;
+  color: #1E1E1E;
 }
